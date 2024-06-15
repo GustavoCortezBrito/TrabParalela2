@@ -1,0 +1,5 @@
+{
+    "address": ["localhost", 5002],
+    "broker_address": ["localhost", 5000],
+    "topics": ["sports", "news"]
+}

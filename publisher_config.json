@@ -1,0 +1,9 @@
+{
+    "address": ["localhost", 5001],
+    "broker_address": ["localhost", 5000],
+    "comments": [
+        {"topic": "sports", "text": "Great game last night!"},
+        {"topic": "news", "text": "Breaking news!"},
+        {"topic": "weather", "text": "It's sunny today."}
+    ]
+}
